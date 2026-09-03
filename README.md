@@ -229,15 +229,6 @@ Higher is better.
 
 The models are compared using the same test dataset and evaluation metrics.
 
-| Model             | MAE | RMSE | R² |
-| ----------------- | --: | ---: | -: |
-| Linear Regression |   — |    — |  — |
-| Random Forest     |   — |    — |  — |
-| Extra Trees       |   — |    — |  — |
-| XGBoost           |   — |    — |  — |
-
-> Results will be updated with the final tuned model performance.
-
 ---
 
 ## 🔍 Model Interpretability
@@ -263,7 +254,6 @@ These results help provide insight into the variables that are most useful for p
 
 Several limitations should be considered:
 
-* The dataset contains observational data, so relationships identified by the models should **not be interpreted as causal relationships**.
 * A high predictive score does not mean that a particular variable directly causes changes in mental health.
 * Country categories with low observation counts were grouped into `Other`, which reduces geographical detail.
 * Machine learning predictions depend on the quality and representativeness of the available dataset.
