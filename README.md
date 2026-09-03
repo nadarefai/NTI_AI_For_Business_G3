@@ -368,15 +368,10 @@ Model Comparison
 
 ## 👥 Contributors
 
-Add your team members here:
+* Yassin Sobhy
+* Nada Refai
+* Kirollos Kamil
+* Hady Kamal
+* Menna Zaki
 
-* Name 1
-* Name 2
-* Name 3
-* Name 4
 
----
-
-## 📄 License
-
-This project was developed for educational and academic purposes.
